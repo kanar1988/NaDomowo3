@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Symfony2PluginSettings">
+    <option name="pathToTranslation" value="C:/xampp/htdocs/Symfony/app/Resources/translations" />
+    <option name="directoryToWeb" value="C:/xampp/htdocs/Symfony/web" />
+    <option name="directoryToApp" value="C:/xampp/htdocs/Symfony/app" />
+    <option name="pluginEnabled" value="true" />
+    <option name="profilerCsvPath" value="" />
+  </component>
+</project>
